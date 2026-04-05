@@ -1,0 +1,1 @@
+select a.C1, a.C2, b.C3 from table1 as a full outer join table2 as b on a.C1 = b.C1
